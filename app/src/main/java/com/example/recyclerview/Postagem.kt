@@ -5,5 +5,4 @@ data class Postagem(
     val postagem: String,
     val nomeUsuario: String,
     val descricao: String,
-
 )
